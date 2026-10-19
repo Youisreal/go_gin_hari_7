@@ -1,6 +1,6 @@
-# Go Hari 8
+# Go Hari 7
 
-> **Go Hari 8** - Proyek pembelajaran Go (Golang) yang dibangun dengan semangati harian praktis.
+> **Go Hari 7** - Proyek pembelajaran Go (Golang) yang dibangun dengan semangati harian praktis.
 
 ## 📖 Tentang Proyek
 
